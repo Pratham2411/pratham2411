@@ -45,10 +45,10 @@ I focus on writing clean, efficient code and continuously improving my problem-s
 ---
 
 ## 🏆 Achievements
-- **Winner** — Abhiyantriki 4.0 (ASCE Club)
+- 🥇 National Science Olympiad(NSO) Gold Medalist 
 - 🥈 **2nd Place** — Abhiyanta 3.0 (GYB Club)
 - **Winner** — State-Level Debate Competition
-- **Rank < 100** in **Codeforces Div 2 Contest**
+- **Rank < 1000** in **Codeforces Div 2 Contest**
 - Active member — **GDSC** & **TESLA** (NIT Patna)
 
 ---
