@@ -23,7 +23,7 @@ I focus on writing clean, efficient code and continuously improving my problem-s
 ---
 
 ## 🧠 About Me
-- Solved **900+** problems 
+- Solved **900+** problems on various coding platforms
 - Strong command of **Data Structures, Algorithms, and OOP**
 - Interested in **Backend Engineering & Scalable Systems**
 - Believes in **consistency, clarity & gradual mastery**
@@ -45,10 +45,11 @@ I focus on writing clean, efficient code and continuously improving my problem-s
 ---
 
 ## 🏆 Achievements
-- 🥇 National Science Olympiad(NSO) Gold Medalist 
-- 🥈 **2nd Place** — Abhiyanta 3.0 (GYB Club)
-- **Winner** — State-Level Debate Competition
-- **Rank < 1000** in **Codeforces Div 2 Contest**
+- 🥇 National Science Olympiad(NSO) Gold Medalist
+- 🥇 District Topper(Class 12th)
+- Rated 1700+ on Leetcode
+- Pupil on Codeforces
+- 3⭐ on Codechef
 - Active member — **GDSC** & **TESLA** (NIT Patna)
 
 ---
