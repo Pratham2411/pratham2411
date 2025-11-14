@@ -36,8 +36,13 @@ I love building clean, modern web applications and solving challenging algorithm
 - ⚡ **1700+ Rated** on LeetCode  
 - 🎯 **Pupil** on Codeforces  
 - ⭐ **3-Star Coder** on CodeChef   
-- 🔗 **Profiles:**  
-  [LeetCode](https://leetcode.com/) • [Codeforces](https://codeforces.com/) • [GFG](https://geeksforgeeks.org) • [CodeChef](https://codechef.com)
+
+### 🌐 Coding Profiles
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow)](https://leetcode.com/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com)
 
 ---
 
