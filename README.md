@@ -115,5 +115,8 @@ I love building clean, modern web applications and solving challenging algorithm
 
 ---
 
-> _“The best way to predict the future is to build it.” — Alan Kay_
+---
+
+> _“You are in it to win it.”_
+
 
