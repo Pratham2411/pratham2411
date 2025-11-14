@@ -1,98 +1,114 @@
-<!-- Header Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0A1A2F&height=200&section=header&text=Pratham%20Raj&fontColor=FFFFFF&fontSize=50&fontAlignY=35" />
-</p>
+<!-- =============================== HEADER =============================== -->
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Sedan+SC&size=40&weight=600&duration=5000&pause=700&color=8492A6&background=15151500&center=true&vCenter=true&random=false&width=1100&lines=Hi+there%2C+I'm+Pratham+Raj;Competitive+Programmer+%26+Full+Stack+Developer;Building+Future-Ready+Tech+Every+Day" alt="Typing SVG"/>
+</div>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=prathamraj&format=true" />
+</div>
 
 <p align="center">
-<b>Software Developer • Competitive Programmer • Electrical Engineering @ NIT Patna</b>
-</p>
-
-<p align="center">
-I focus on writing clean, efficient code and continuously improving my problem-solving ability.
+  <strong><i>Turning ideas into reliable, scalable digital experiences.</i></strong>
 </p>
 
 ---
 
-## 🌐 Connect With Me
-<p align="left">
-<a href="https://linkedin.com/in/prathamraj2411"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:prathamraj2411@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://instagram.com/pratham_raj_2411"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
+## 👋 About Me
+
+I’m **Pratham Raj**, an aspiring **Full Stack Developer**, **Problem Solver**, and **Competitive Programmer**, pursuing **B.Tech in Electrical Engineering at NIT Patna (2023–27)**.
+
+I love building clean, modern web applications and solving challenging algorithmic problems to sharpen my logical thinking.
 
 ---
 
-## 🧠 About Me
-- Solved **900+** problems on various coding platforms
-- Strong command of **Data Structures, Algorithms, and OOP**
-- Interested in **Backend Engineering & Scalable Systems**
-- Believes in **consistency, clarity & gradual mastery**
-- Learning something meaningful every single day
+## 🏆 Achievements
+
+- 🥇 **National Science Olympiad (NSO) – Gold Medalist**  
+- 🥇 **District Topper (Class 12th)**   
+- 🔥 Active Member — **GDSC** & **TESLA**, NIT Patna  
+
+---
+
+## 🧠 Competitive Programming
+
+- 🔥 Solved **1000+** DSA & CP problems  
+- ⚡ **1700+ Rated** on LeetCode  
+- 🎯 **Pupil** on Codeforces  
+- ⭐ **3-Star Coder** on CodeChef   
+- 🔗 **Profiles:**  
+  [LeetCode](https://leetcode.com/) • [Codeforces](https://codeforces.com/) • [GFG](https://geeksforgeeks.org) • [CodeChef](https://codechef.com)
 
 ---
 
 ## 💻 Tech Stack
 
-**Languages**
-<p><img src="https://skillicons.dev/icons?i=cpp,java,js,python,c" /></p>
-
-**Web / Frameworks**
-<p><img src="https://skillicons.dev/icons?i=react,nodejs,html,css" /></p>
-
-**Tools & Platforms**
-<p><img src="https://skillicons.dev/icons?i=git,github,gcp,vscode,arduino,latex" /></p>
-
----
-
-## 🏆 Achievements
-- 🥇 National Science Olympiad(NSO) Gold Medalist
-- 🥇 District Topper(Class 12th)
-- Rated 1700+ on Leetcode
-- Pupil on Codeforces
-- 3⭐ on Codechef
-- Active member — **GDSC** & **TESLA** (NIT Patna)
+| Category | Skills & Icons |
+|----------|----------------|
+| **Languages** | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) |
+| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/express.js-black?style=for-the-badge&logo=express&logoColor=white) ![Hono](https://img.shields.io/badge/Hono-%23FF6C37.svg?style=for-the-badge&logo=cloudflare&logoColor=white) |
+| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **Tools & DevOps** | ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/Github-%23181717.svg?style=for-the-badge&logo=Github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white) |
 
 ---
 
 ## 🚀 Projects
 
-| Project | Description | Tech Stack | Link |
-|--------|-------------|-----------|------|
-| **Portfolio Website** | Personal website with clean UI & animations | React, CSS | *Private (Releasing Soon)* |
-| **Algorithm Visualizer** | Visual learning tool for algorithms | JavaScript, Canvas | *Publishing Soon* |
-| **Home Automation IoT** | Cloud-based device control | Arduino, GCP | *Under Documenting* |
+### 📘 StudySync — Smart Notes & Revision Manager
+> A clean and efficient study companion to manage notes, revision schedules, deadlines, and reminders.  
+> Simple to build, visually polished, and extremely practical for students.
 
-> I only push projects once they meet my quality bar — I prefer polished work over rushed uploads.
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Pratham2411&show_icons=true&theme=transparent&hide_border=false" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratham2411&layout=compact&theme=transparent&hide_border=false" />
-</p>
+**Skills Highlighted:** Frontend • Design • Productivity Apps  
+**Tech:** Next.js • Tailwind CSS • LocalStorage / SQLite
 
 ---
 
-## 🔥 LeetCode Progress  
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/prathamraj2411?theme=dark&font=Baloo%20Bhai%202&ext=contest" />
-</p>
+### 🗂️ TaskPilot — Minimal Productivity & Task Manager
+> A beautifully structured task manager with categories, priorities, and weekly progress charts.  
+> Recruiters love polished productivity tools — this is an easy win.
+
+**Skills Highlighted:** UI/UX • State Management • Responsive Design  
+**Tech:** React/Next.js • Tailwind • Zustand
 
 ---
 
-## 📈 Contribution Activity
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pratham2411&theme=react-dark"/>
-</p>
+### 🧾 QuickBill — Simple Invoice & Expense Tracker  
+> A lightweight app for creating invoices, tracking expenses, and exporting PDFs.  
+> Practical and boosts backend understanding.
+
+**Skills Highlighted:** CRUD APIs • PDF Generation • Database Handling  
+**Tech:** Node.js • Express • MongoDB • React / Next.js
 
 ---
 
-## 💡 Work Philosophy
-> **“Consistency compounds. Precise work over loud work. Depth over speed.”**
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=PrathamRaj&show_icons=true&theme=tokyonight" height="160px"/>
+<img src="https://streak-stats.demolab.com?user=PrathamRaj&theme=tokyonight&hide_border=false" height="160px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathamRaj&layout=compact&theme=tokyonight" height="160px"/>
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0A1A2F&height=120&section=footer"/>
-</p>
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+---
+
+## 📫 Contact
+
+- 🌐 Portfolio: *(coming soon)*  
+- 💼 LinkedIn: *(https://www.linkedin.com/in/prathamraj2411/)*  
+- 📧 Email: *(prathamraj2411@gmail.com)*  
+
+---
+
+> _“The best way to predict the future is to build it.” — Alan Kay_
+
