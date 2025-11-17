@@ -90,12 +90,12 @@ I love building clean, modern web applications and solving challenging algorithm
 ## 📈 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Pratham2411&show_icons=true&theme=tokyonight" height="160px"/>
-<img src="https://streak-stats.demolab.com?user=Pratham2411&theme=tokyonight&hide_border=false" height="160px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratham2411&layout=compact&theme=tokyonight" height="160px"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Pratham2411&show_icons=true&theme=tokyonight&hide_border=true" height="150px"/>
+  <img src="https://streak-stats.vercel.app?user=Pratham2411&theme=tokyonight&hide_border=true" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratham2411&layout=compact&theme=tokyonight&hide_border=true" height="150px"/>
 </div>
+
+
 
 ---
 
