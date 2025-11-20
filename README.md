@@ -39,9 +39,9 @@ I love building clean, modern web applications and solving challenging algorithm
 
 ### 🌐 Coding Profiles
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow)](https://leetcode.com/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)]([https://codeforces.com/](https://codeforces.com/profile/prathamraj2411))
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow)](https://leetcode.com/prathamraj2411)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)]([https://codeforces.com/prathamraj2411])
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)]()
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/prathamraj2411)
 
 ---
