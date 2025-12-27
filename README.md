@@ -26,7 +26,7 @@ I love building clean, modern web applications and solving challenging algorithm
 
 - 🥇 **National Science Olympiad (NSO) – Gold Medalist**  
 - 🥇 **District Topper (Class 12th)**   
-- 🔥 Active Member — **GDSC** & **SANKALP**, NIT Patna  
+- 🔥 Member — *NSS** & **SANKALP**, NIT Patna  
 
 ---
 
