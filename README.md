@@ -60,7 +60,7 @@ I love building clean, modern web applications and solving challenging algorithm
 ---
 
 ## 🚀 Projects
-
+<!-- !
 ### 📘 StudySync — Smart Notes & Revision Manager
 > A clean and efficient study companion to manage notes, revision schedules, deadlines, and reminders.  
 > Simple to build, visually polished, and extremely practical for students.
@@ -85,8 +85,9 @@ I love building clean, modern web applications and solving challenging algorithm
 
 **Skills Highlighted:** CRUD APIs • PDF Generation • Database Handling  
 **Tech:** Node.js • Express • MongoDB • React / Next.js
+--> 
+Will add later
 
----
 
 ## 📈 GitHub Stats
 
