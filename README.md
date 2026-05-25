@@ -32,8 +32,8 @@ I love building clean, modern web applications and solving challenging algorithm
 
 ## 🧠 Competitive Programming
 
-- 🔥 Solved **1000+** DSA & CP problems  
-- ⚡ **1700+ Rated** on LeetCode  
+- 🔥 Solved **1500+** DSA & CP problems  
+- ⚡ **Knight* on LeetCode  
 - 🎯 **Pupil** on Codeforces  
 - ⭐ **3-Star Coder** on CodeChef   
 
