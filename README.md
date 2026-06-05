@@ -99,19 +99,10 @@ Will add later
 
 
 
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
----
 
 ## 📫 Contact
 
-- 🌐 Portfolio: *(coming soon)*  
+- 🌐 Portfolio: *(https://my-portfolio-nine-dusky-pwkmvayvdw.vercel.app/)*  
 - 💼 LinkedIn: *(https://www.linkedin.com/in/prathamraj2411/)*  
 - 📧 Email: *(prathamraj2411@gmail.com)*  
 
