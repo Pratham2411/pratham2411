@@ -48,7 +48,7 @@ I am actively looking for software engineering internships where I can contribut
 
 ## 🚀 Highlighted Projects
 
-### [C++ Vector Database & RAG Engine](https://github.com/Pratham2411/MY-AI)
+### [C++ Vector Database & RAG Engine](https://github.com/Pratham2411/C-Vector-Database-and-RAG-Engine)
 > A multi-threaded vector database built from scratch in C++, featuring a local Retrieval-Augmented Generation (RAG) engine.
 - **Tech:** C++, cpp-httplib, HNSW algorithm, Llama 3.2
 - **Impact:** Achieved O(log N) search complexity across 10,000+ high-dimensional embeddings and capable of serving 500+ concurrent operations.
